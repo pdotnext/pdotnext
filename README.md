@@ -78,8 +78,8 @@ Languages:    English (fluent) · German (B2) · Python · YAML · JSON
 ## 📍 Background
 
 ```
-2024–now   Broadcom          Sr. Technical Account Manager  Stuttgart, DE
-2022–2024  VMware            Consulting Architect            Stuttgart, DE
+2024–now   Confidential          Sr. Technical Account Manager  Stuttgart, DE
+2022–2024  Confidential            Consulting Architect            Stuttgart, DE
 2021–2022  Borse Stuttgart   Virtualisation Engineer         Stuttgart, DE
 2019–2021  EMP               Virtualisation Engineer
 2017–2019  DarkMatter        Virtualisation Architect        Abu Dhabi, UAE
