@@ -92,7 +92,7 @@ Languages:    English (fluent) · German (B2) · Python · YAML · JSON
 
 ## 📬 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/preetam-ai-dev-1181283b5)
+- 💼 [LinkedIn](https://www.linkedin.com/in/preetam-ai-dev)
 - 📧 preetam.ai.pro@gmail.com
 - 📍 Stuttgart, Germany
 
