@@ -60,7 +60,7 @@ Not passively watching videos. Systematically building knowledge: 4 hours daily,
 
 | Repo | What it is | Status |
 |---|---|---|
-| [ai-infrastructure-notes](https://github.com/pdotnext/ai-infrastructure-notes) | Daily learning — DC power, cooling, GPU hardware. Sourced from official NVIDIA docs. | 🔄 Active |
+| [nvidia-ai-infrastructure-field-notes](https://github.com/pdotnext/nvidia-ai-infrastructure-field-notes) | Daily learning — DC power, cooling, GPU hardware. Sourced from official NVIDIA docs. | 🔄 Active |
 | [dgx-deployment-scenarios](https://github.com/pdotnext/dgx-deployment-scenarios) | Worked customer scenarios: power constraints, colocation decisions, cooling design | ⏳ Coming May 2026 |
 | AI Infrastructure Sizing Calculator | Python · Streamlit — GPU cluster sizing for DACH industrial customers | ⏳ Coming June 2026 |
 
